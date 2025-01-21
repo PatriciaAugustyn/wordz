@@ -14,3 +14,9 @@ Run smoke tests
 ```bash
 bash test.sh
 ```
+
+Run unit tests
+
+```bash
+bash test_wordz.sh
+```
