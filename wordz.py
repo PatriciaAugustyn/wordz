@@ -1,6 +1,8 @@
 """
 
-Utiliser : python3 wordz.py taylor_swift.txt 
+Utiliser : 
+- python3 wordz.py local/taylor_swift.txt
+- python3 wordz.py local/taylor_swift.txt love
 
 """
 import sys
